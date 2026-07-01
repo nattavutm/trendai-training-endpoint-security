@@ -1,6 +1,6 @@
 # TrendAI Endpoint Security — Hands-on Training
 
-A dashboard-driven training for **customers and partners** using Trend Vision One – Endpoint Security with AI (Trend Companion).
+A dashboard-driven training for Trend Vision One – Endpoint Security 
 
 This is a **show-me** course. Each topic is in its own folder — click a topic below to open it, then use the **Previous / Next** links to move through the course in order.
 
