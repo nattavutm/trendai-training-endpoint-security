@@ -2,9 +2,6 @@
 
 A dashboard-driven training for Trend Vision One – Endpoint Security 
 
-This is a **show-me** course. Each topic is in its own folder — click a topic below to open it, then use the **Previous / Next** links to move through the course in order.
-
-> Menu names follow the current Trend Vision One console. If your tenant differs, use the global **Search** in the top bar to jump to any app by name. Path notation: `App ▸ Menu ▸ Sub-menu`.
 
 ---
 
