@@ -62,8 +62,3 @@ A dashboard-driven training for Trend Vision One – Endpoint Security
 ## References
 
 - Trend Vision One Online Help / Documentation
-- MITRE ATT&CK — https://attack.mitre.org
-
----
-
-_Maintained for Trend Micro customer & partner enablement._
